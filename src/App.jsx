@@ -5,7 +5,7 @@ const App = () => {
       {/* BREADCRUMBS */}
       {/* INTRODUCTION */}
       {/* FEATURED POSTS */}
-      {/* POST LIST */}
+      {/* POST LIST */}   
     </div>
   )
 }
